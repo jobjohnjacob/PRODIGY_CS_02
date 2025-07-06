@@ -58,14 +58,6 @@ Pillow (PIL) for image processing
 
 tkinter for the user interface
 
----
-
-How to Use:
-
-1. Clone the repository
-
-2. Install dependencies: pip install pillow
-
 3. Run the script: python image_encryptor.py
 
 4. Select an image, enter a secret key (0–255), and click Encrypt or Decrypt
